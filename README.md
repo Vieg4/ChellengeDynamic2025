@@ -35,5 +35,7 @@ Para isso, simulamos dados de consumo diário e aplicamos **estruturas de dados*
 
 - Caso o grafico interativo de erro para rodar tente executar o codigo abaixo no terminal em python.
 
-    from grafico import gerar_grafico_interativo
-    gerar_grafico_interativo()
+from grafico import gerar_grafico_interativo
+gerar_grafico_interativo()
+
+- Caso precise abrir o grafico mais de uma vez abra outro terminal em python e escreva novamente o codigo
