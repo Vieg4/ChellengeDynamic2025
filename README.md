@@ -1,5 +1,16 @@
 # Dynamic Programming - Gestão de Consumo de Insumos
 
+## Grupo
+
+Faculdade de Informática e Administração Paulista (FIAP)
+Curso de Engenharia de Software
+
+Felipe Marques de Oliveira - RM556319
+Giulia Rocha Barbizan Alves - RM558084
+Gustavo Viega Martins Lopes - RM555885
+Kaio Drago Lima Souza - RM556095
+Gabriel Barros Cisoto - RM556309
+
 ## Descrição do Projeto
 Este projeto tem como objetivo organizar e gerenciar o consumo diário de insumos (reagentes e descartáveis) em unidades de diagnóstico, onde o registro não é feito com precisão.  
 Para isso, simulamos dados de consumo diário e aplicamos **estruturas de dados** e **algoritmos clássicos** para facilitar o controle de estoque e previsão de reposição.
